@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header {
+	width: 10%;
+}
+
+header .headline {
+	font-size: 22px;
+}
+
+nav {
+	text-align: left; /*要件では中央揃えだが、不格好*/
+}
+
+.list {
+	padding-left: 40px;
+}
