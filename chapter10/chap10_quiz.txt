@@ -1,0 +1,11 @@
+【10章の確認問題】
+Q1.レスポンシブ対応とは？
+A. あらゆる端末のUIに対応させること
+
+Q2.viewpoint設定に必要なcontent属性値を、次の中から2つ選べ
+A. initial-scale=1.0
+   width=device-width
+
+
+Q3.mediaqueriesの宣言文として正しいのは？
+A. @media screeen and (max-width: 768px)
